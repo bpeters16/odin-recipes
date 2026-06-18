@@ -1,0 +1,1 @@
+This project is my first webpage in HTML only for the odin project. It will be a basic recipe website.
